@@ -25,7 +25,7 @@ p {
   <body>
       <h1 class="title">Hello World! This is Manoj </h1>
 <h2> Hyderabad dum ki biryani</h2>
-      <p>I am from hyderabad fucking crazy</p>
+      <p>I am from hyderabad </p>
   <marquee> I love food</marquee>
 <a href="https://www.google.com/">Google</a>
   </body>
